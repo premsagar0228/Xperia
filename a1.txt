@@ -1,0 +1,6 @@
+Development
+Testing 
+Debugging
+Integrate
+Deploy
+Maintain
