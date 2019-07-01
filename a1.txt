@@ -4,3 +4,5 @@ Debugging
 Integrate
 Deploy
 Maintain
+Performance test
+Functional test
