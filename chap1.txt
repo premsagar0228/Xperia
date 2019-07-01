@@ -1,5 +1,0 @@
-Docker
-Ansible
-puppet
-chef
-Salt Stack
